@@ -6,4 +6,11 @@ Disney's Steamboat Willie is a landmark in the history of animation. The first f
 
 ## The Challenge
 
+Make an Icon like this that is recognisably Mickey
+
 ![iOS icon](png/goldlabel_192.png)
+
+
+![Disney's Steamboat Willie](black-mickey-mouse-from-steamboat-52650-106063.jpg)
+
+![Disney's Steamboat Willie](steamboat-willie-silhouette-image-52650-106064.jpg)
