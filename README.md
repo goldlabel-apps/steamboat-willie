@@ -6,4 +6,4 @@ Disney's Steamboat Willie is a landmark in the history of animation. The first f
 
 ## The Challenge
 
-![iOS icon](goldlabel_192.png)
+![iOS icon](png/goldlabel_192.png)
